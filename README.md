@@ -57,6 +57,10 @@ It focuses on clean code, pixel-perfect alignment, and reusable structure — bu
 ## 📸 Preview
 ![Preview](assets/preview.png)
 
+## 🔴 Live Preview
+[![Live Demo](https://img.shields.io/badge/View%20Demo-YouKube-red?style=for-the-badge&logo=youtube)](https://mdifhamajaz.github.io/youkube-a-ui-clone/)
+
+
 
 
 ---
